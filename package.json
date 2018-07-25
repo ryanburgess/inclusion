@@ -1,0 +1,43 @@
+{
+  "name": "inclusion",
+  "version": "1.0.0",
+  "description": "This is a repository of resources to help educate and help with building a more inclusive work environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test",
+    "build": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanburgess/inclusion.git"
+  },
+  "keywords": [
+    "inclusion",
+    "inclusivity",
+    "inclusive",
+    "resources",
+    "links",
+    "learning"
+  ],
+  "author": "Ryan Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanburgess/inclusion/issues"
+  },
+  "config": {
+    "ghooks": {
+      "pre-commit": "gulp test",
+      "pre-push": "node index",
+      "post-merge": "npm install",
+      "post-rewrite": "npm install"
+    }
+  },
+  "homepage": "https://github.com/ryanburgess/inclusion#readme",
+  "devDependencies": {
+    "ghooks": "^1.3.2",
+    "gulp": "^3.9.1",
+    "gulp-jsonlint": "^1.1.2",
+    "jshint-stylish": "^2.2.1",
+    "prompt": "^1.0.0"
+  }
+}
