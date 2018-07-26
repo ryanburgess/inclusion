@@ -6,6 +6,7 @@
 
 ## Videos
  * [Why the Most Common Diversity Programs Don't Work](https://hbr.org/video/5108682441001/why-the-most-common-diversity-programs-dont-work) - The video helps share common mistakes that diversity programs make.
+ * [Why Diversity Is More Important Than Meritocracy: Quotas, Talent, Wall Street](https://www.youtube.com/watch?v=78yqUylmC_o) - Some interesting points on why we need to rethink our approach on improving diversity
 
 ## Podcasts
 
