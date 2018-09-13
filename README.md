@@ -11,6 +11,7 @@
 ## Podcasts
 
 ## Articles
+ * [Reducing Bias in Your Hiring Process](https://medium.com/@mekkaokereke/reducing-bias-in-your-hiring-process-2a9b699e964b) - Some helpful tips to reduce bias in your hiring process
 
 ## Newsletters
 

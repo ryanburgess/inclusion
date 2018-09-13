@@ -16,5 +16,11 @@
         "url": "https://www.youtube.com/watch?v=78yqUylmC_o",
         "reason": "Some interesting points on why we need to rethink our approach on improving diversity",
         "cat": "video"
+    },
+    {
+        "title": "Reducing Bias in Your Hiring Process",
+        "url": "https://medium.com/@mekkaokereke/reducing-bias-in-your-hiring-process-2a9b699e964b",
+        "reason": "Some helpful tips to reduce bias in your hiring process",
+        "cat": "article"
     }
 ]
