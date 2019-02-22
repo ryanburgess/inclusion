@@ -7,11 +7,13 @@
 ## Videos
  * [Why the Most Common Diversity Programs Don't Work](https://hbr.org/video/5108682441001/why-the-most-common-diversity-programs-dont-work) - The video helps share common mistakes that diversity programs make.
  * [Why Diversity Is More Important Than Meritocracy: Quotas, Talent, Wall Street](https://www.youtube.com/watch?v=78yqUylmC_o) - Some interesting points on why we need to rethink our approach on improving diversity
+ * [We Power Tech: Everyday Actions to Be a Better Ally](https://www.youtube.com/watch?v=bKHGeYPCifw&feature=youtu.be&t=266) - A good conference talk about how to be a better ally
 
 ## Podcasts
 
 ## Articles
  * [Reducing Bias in Your Hiring Process](https://medium.com/@mekkaokereke/reducing-bias-in-your-hiring-process-2a9b699e964b) - Some helpful tips to reduce bias in your hiring process
+ * [7 Examples of What Being an Ally at Work Really Looks Like](https://www.themuse.com/advice/what-is-an-ally-7-examples) - Some helpful advice for being an ally to your colleagues at work
 
 ## Newsletters
 
