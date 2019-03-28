@@ -40,5 +40,17 @@
         "url": "https://www.atlassian.com/blog/teamwork/how-to-run-inclusive-meetings",
         "reason": "A good article onn how to help run more inclusive meetings",
         "cat": "article"
+    },
+    {
+        "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+        "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=sr_1_3?crid=2HP9PYKIEJNNY&keywords=quiet+the+power+of+introverts&qid=1553744069&s=gateway&sprefix=quiet+%2Caps%2C275&sr=8-3",
+        "reason": "This is a helpful book on understanding to help be more inclusive for introverts",
+        "cat": "book"
+    },
+    {
+        "title": "Turn the Ship Around!",
+        "url": "https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404/ref=sr_1_1?crid=1V20YD4UF58JH&keywords=turn+the+ship+around&qid=1553744165&s=gateway&sprefix=turn+the+ship+%2Caps%2C275&sr=8-1",
+        "reason": "This is a helpful book for leading teams",
+        "cat": "book"
     }
 ]
