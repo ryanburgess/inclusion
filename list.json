@@ -34,5 +34,11 @@
         "url": "https://www.youtube.com/watch?v=bKHGeYPCifw&feature=youtu.be&t=266",
         "reason": "A good conference talk about how to be a better ally",
         "cat": "video"
+    },
+    {
+        "title": "How to counteract 3 types of bias and run inclusive meetings",
+        "url": "https://www.atlassian.com/blog/teamwork/how-to-run-inclusive-meetings",
+        "reason": "A good article onn how to help run more inclusive meetings",
+        "cat": "article"
     }
 ]
