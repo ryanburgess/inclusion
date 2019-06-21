@@ -52,5 +52,11 @@
         "url": "https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404/ref=sr_1_1?crid=1V20YD4UF58JH&keywords=turn+the+ship+around&qid=1553744165&s=gateway&sprefix=turn+the+ship+%2Caps%2C275&sr=8-1",
         "reason": "This is a helpful book for leading teams",
         "cat": "book"
+    },
+    {
+        "title": "How to Fix Your Tech Interview to Increase Diversity",
+        "url": "https://www.diversifytech.co/blog/how-to-fix-tech-interview-to-increase-diversity",
+        "reason": "There are a lot of great ideas for improving tech interviews to be more inclusive",
+        "cat": "article"
     }
 ]

@@ -17,6 +17,7 @@
  * [Reducing Bias in Your Hiring Process](https://medium.com/@mekkaokereke/reducing-bias-in-your-hiring-process-2a9b699e964b) - Some helpful tips to reduce bias in your hiring process
  * [7 Examples of What Being an Ally at Work Really Looks Like](https://www.themuse.com/advice/what-is-an-ally-7-examples) - Some helpful advice for being an ally to your colleagues at work
  * [How to counteract 3 types of bias and run inclusive meetings](https://www.atlassian.com/blog/teamwork/how-to-run-inclusive-meetings) - A good article onn how to help run more inclusive meetings
+ * [How to Fix Your Tech Interview to Increase Diversity](https://www.diversifytech.co/blog/how-to-fix-tech-interview-to-increase-diversity) - There are a lot of great ideas for improving tech interviews to be more inclusive
 
 ## Newsletters
 
