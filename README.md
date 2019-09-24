@@ -11,6 +11,7 @@
  * [Why Diversity Is More Important Than Meritocracy: Quotas, Talent, Wall Street](https://www.youtube.com/watch?v=78yqUylmC_o) - Some interesting points on why we need to rethink our approach on improving diversity
  * [We Power Tech: Everyday Actions to Be a Better Ally](https://www.youtube.com/watch?v=bKHGeYPCifw&feature=youtu.be&t=266) - A good conference talk about how to be a better ally
  * [Brene Brown: The Anatomy of Trust](https://brenebrown.com/videos/anatomy-trust-video/) - This is an excellent talk on building and retaining trust
+ * [How to build (and rebuild) trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust) - This is a great talk by Frances Frei on how to build trust with people
 
 ## Podcasts
 
@@ -21,6 +22,7 @@
  * [How to Fix Your Tech Interview to Increase Diversity](https://www.diversifytech.co/blog/how-to-fix-tech-interview-to-increase-diversity) - There are a lot of great ideas for improving tech interviews to be more inclusive
 
 ## Newsletters
+ * [Better Allies](https://betterallies.com/more-content/) - This is an excellent weekly newsletter that provides 5 insightful tips each week
 
 ## Contributing 
 1. Fork it

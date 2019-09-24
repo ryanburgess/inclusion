@@ -64,5 +64,17 @@
         "url": "https://brenebrown.com/videos/anatomy-trust-video/",
         "reason": "This is an excellent talk on building and retaining trust",
         "cat": "video"
+    },
+    {
+        "title": "Better Allies",
+        "url": "https://betterallies.com/more-content/",
+        "reason": "This is an excellent weekly newsletter that provides 5 insightful tips each week",
+        "cat": "newsletter"
+    },
+    {
+        "title": "How to build (and rebuild) trust",
+        "url": "https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust",
+        "reason": "This is a great talk by Frances Frei on how to build trust with people",
+        "cat": "video"
     }
 ]
