@@ -76,5 +76,23 @@
         "url": "https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust",
         "reason": "This is a great talk by Frances Frei on how to build trust with people",
         "cat": "video"
+    },
+    {
+        "title": "Reply All - Raising The Bar",
+        "url": "https://gimletmedia.com/shows/reply-all/76h54l/52-raising-the-bar",
+        "reason": "In this episode of Reply All they talk about how important it is to have a diverse team",
+        "cat": "podcast"
+    },
+    {
+        "title": "Noisemakers",
+        "url": "https://www.timesupnow.com/noisemakers",
+        "reason": "This is a six part series that brings together women sharing personal experiences facing harassement, gender inequality, and pay in the workplace",
+        "cat": "podcast"
+    },
+    {
+        "title": "Oprah’s SuperSoul Conversations - Malcolm Gladwell: Talking to Strangers",
+        "url": "https://www.podbean.com/media/share/dir-9xc5c-6d26e3d",
+        "reason": "Malcolm Gladwell discusses his new book, Talking to Strangers: What We Should Know About the People We Don’t Know. Malcolm examines his theory that prejudging people we don’t know can lead to dangerous consequences.",
+        "cat": "podcast"
     }
 ]

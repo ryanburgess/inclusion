@@ -14,6 +14,9 @@
  * [How to build (and rebuild) trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust) - This is a great talk by Frances Frei on how to build trust with people
 
 ## Podcasts
+ * [Reply All - Raising The Bar](https://gimletmedia.com/shows/reply-all/76h54l/52-raising-the-bar) - In this episode of Reply All they talk about how important it is to have a diverse team
+ * [Noisemakers](https://www.timesupnow.com/noisemakers) - This is a six part series that brings together women sharing personal experiences facing harassement, gender inequality, and pay in the workplace
+ * [Oprah’s SuperSoul Conversations - Malcolm Gladwell: Talking to Strangers](https://www.podbean.com/media/share/dir-9xc5c-6d26e3d) - Malcolm Gladwell discusses his new book, Talking to Strangers: What We Should Know About the People We Don’t Know. Malcolm examines his theory that prejudging people we don’t know can lead to dangerous consequences.
 
 ## Articles
  * [Reducing Bias in Your Hiring Process](https://medium.com/@mekkaokereke/reducing-bias-in-your-hiring-process-2a9b699e964b) - Some helpful tips to reduce bias in your hiring process
