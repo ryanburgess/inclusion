@@ -17,12 +17,14 @@
  * [Reply All - Raising The Bar](https://gimletmedia.com/shows/reply-all/76h54l/52-raising-the-bar) - In this episode of Reply All they talk about how important it is to have a diverse team
  * [Noisemakers](https://www.timesupnow.com/noisemakers) - This is a six part series that brings together women sharing personal experiences facing harassement, gender inequality, and pay in the workplace
  * [Oprah’s SuperSoul Conversations - Malcolm Gladwell: Talking to Strangers](https://www.podbean.com/media/share/dir-9xc5c-6d26e3d) - Malcolm Gladwell discusses his new book, Talking to Strangers: What We Should Know About the People We Don’t Know. Malcolm examines his theory that prejudging people we don’t know can lead to dangerous consequences.
+ * [Brené Brown and Vernā Myers Discuss Inclusion and Diversity](https://open.spotify.com/episode/7jxo2jBUVWLE1kXtfuAW5v) - A great discussion about inclusion and diversity with Brené Brown and Vernā Myers
 
 ## Articles
  * [Reducing Bias in Your Hiring Process](https://medium.com/@mekkaokereke/reducing-bias-in-your-hiring-process-2a9b699e964b) - Some helpful tips to reduce bias in your hiring process
  * [7 Examples of What Being an Ally at Work Really Looks Like](https://www.themuse.com/advice/what-is-an-ally-7-examples) - Some helpful advice for being an ally to your colleagues at work
  * [How to counteract 3 types of bias and run inclusive meetings](https://www.atlassian.com/blog/teamwork/how-to-run-inclusive-meetings) - A good article onn how to help run more inclusive meetings
  * [How to Fix Your Tech Interview to Increase Diversity](https://www.diversifytech.co/blog/how-to-fix-tech-interview-to-increase-diversity) - There are a lot of great ideas for improving tech interviews to be more inclusive
+ * [Cut it out—How to stop using weak language at work](https://www.theladders.com/career-advice/cut-it-out-how-to-stop-using-weak-language-at-work) - An article about how to be a good communicator at work
 
 ## Newsletters
  * [Better Allies](https://betterallies.com/more-content/) - This is an excellent weekly newsletter that provides 5 insightful tips each week
