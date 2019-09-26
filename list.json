@@ -106,5 +106,17 @@
         "url": "https://www.theladders.com/career-advice/cut-it-out-how-to-stop-using-weak-language-at-work",
         "reason": "An article about how to be a good communicator at work",
         "cat": "article"
+    },
+    {
+        "title": "The Mistake Companies Make When They Use Data to Plan Diversity Efforts",
+        "url": "https://hbr.org/2019/04/the-mistake-companies-make-when-they-use-data-to-plan-diversity-efforts",
+        "reason": "A useful article to help companies approach improve diversity efforts",
+        "cat": "article"
+    },
+    {
+        "title": "50 Ways to Fight Bias",
+        "url": "https://leanin.org/50-ways-to-fight-gender-bias",
+        "reason": "Some helpful tips for ways to fight gender bias",
+        "cat": "article"
     }
 ]

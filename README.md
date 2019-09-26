@@ -25,6 +25,8 @@
  * [How to counteract 3 types of bias and run inclusive meetings](https://www.atlassian.com/blog/teamwork/how-to-run-inclusive-meetings) - A good article onn how to help run more inclusive meetings
  * [How to Fix Your Tech Interview to Increase Diversity](https://www.diversifytech.co/blog/how-to-fix-tech-interview-to-increase-diversity) - There are a lot of great ideas for improving tech interviews to be more inclusive
  * [Cut it out—How to stop using weak language at work](https://www.theladders.com/career-advice/cut-it-out-how-to-stop-using-weak-language-at-work) - An article about how to be a good communicator at work
+ * [The Mistake Companies Make When They Use Data to Plan Diversity Efforts](https://hbr.org/2019/04/the-mistake-companies-make-when-they-use-data-to-plan-diversity-efforts) - A useful article to help companies approach improve diversity efforts
+ * [50 Ways to Fight Bias](https://leanin.org/50-ways-to-fight-gender-bias) - Some helpful tips for ways to fight gender bias
 
 ## Newsletters
  * [Better Allies](https://betterallies.com/more-content/) - This is an excellent weekly newsletter that provides 5 insightful tips each week
