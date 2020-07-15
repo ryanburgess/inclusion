@@ -124,5 +124,11 @@
         "url": "https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/",
         "reason": "This is a great book for helping build a culture of empathy in a company",
         "cat": "book"
+    },
+    {
+        "title": "How To Use They/Them Pronouns!",
+        "url": "https://www.youtube.com/watch?v=rM51Q-hsqXc",
+        "reason": "A video to help show you how to use singular \"they\" in practice as well as giving tips for how to overcome the learning curve faster.",
+        "cat": "video"
     }
 ]

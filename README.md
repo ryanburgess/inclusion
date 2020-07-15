@@ -13,6 +13,7 @@
  * [We Power Tech: Everyday Actions to Be a Better Ally](https://www.youtube.com/watch?v=bKHGeYPCifw&feature=youtu.be&t=266) - A good conference talk about how to be a better ally
  * [Brene Brown: The Anatomy of Trust](https://brenebrown.com/videos/anatomy-trust-video/) - This is an excellent talk on building and retaining trust
  * [How to build (and rebuild) trust](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust) - This is a great talk by Frances Frei on how to build trust with people
+ * [How To Use They/Them Pronouns!](https://www.youtube.com/watch?v=rM51Q-hsqXc) - A video to help show you how to use singular "they" in practice as well as giving tips for how to overcome the learning curve faster.
 
 ## Podcasts
  * [Reply All - Raising The Bar](https://gimletmedia.com/shows/reply-all/76h54l/52-raising-the-bar) - In this episode of Reply All they talk about how important it is to have a diverse team
