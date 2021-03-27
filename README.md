@@ -20,6 +20,7 @@
  * [Noisemakers](https://www.timesupnow.com/noisemakers) - This is a six part series that brings together women sharing personal experiences facing harassement, gender inequality, and pay in the workplace
  * [Oprah’s SuperSoul Conversations - Malcolm Gladwell: Talking to Strangers](https://www.podbean.com/media/share/dir-9xc5c-6d26e3d) - Malcolm Gladwell discusses his new book, Talking to Strangers: What We Should Know About the People We Don’t Know. Malcolm examines his theory that prejudging people we don’t know can lead to dangerous consequences.
  * [Brené Brown and Vernā Myers Discuss Inclusion and Diversity](https://open.spotify.com/episode/7jxo2jBUVWLE1kXtfuAW5v) - A great discussion about inclusion and diversity with Brené Brown and Vernā Myers
+ * [Front End Happy Hour - Bartending to everyone - Inclusive language](https://frontendhappyhour.com/episodes/bartending-to-everyone-inclusive-language/) - A podcast episode explaining about practicing more inclusive language in tech.
 
 ## Articles
  * [Reducing Bias in Your Hiring Process](https://medium.com/@mekkaokereke/reducing-bias-in-your-hiring-process-2a9b699e964b) - Some helpful tips to reduce bias in your hiring process

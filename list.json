@@ -130,5 +130,11 @@
         "url": "https://www.youtube.com/watch?v=rM51Q-hsqXc",
         "reason": "A video to help show you how to use singular \"they\" in practice as well as giving tips for how to overcome the learning curve faster.",
         "cat": "video"
+    },
+    {
+        "title": "Front End Happy Hour - Bartending to everyone - Inclusive language",
+        "url": "https://frontendhappyhour.com/episodes/bartending-to-everyone-inclusive-language/",
+        "reason": "A podcast episode explaining about practicing more inclusive language in tech.",
+        "cat": "podcast"
     }
 ]
