@@ -220,5 +220,17 @@
         "url": "http://www.sceneonradio.org/seeing-white/",
         "reason": "A podcast that covers a lot of the historical events in America that have lead to racism in America.",
         "cat": "podcast"
+    },
+    {
+        "title": "Why the 'nice guy' penalty disadvantages all workers",
+        "url": "https://www.bbc.com/worklife/article/20210310-why-the-nice-guy-penalty-disadvantages-all-workers",
+        "reason": "Research suggests that men are distrusted and passed over at work when they exhibit qualities stereotypically assigned to women. Fixing this would benefit all of us.",
+        "cat": "article"
+    },
+    {
+        "title": "Front End Happy Hour - Live Inclusion Panel at Tech Know Day",
+        "url": "https://www.youtube.com/watch?v=aBuySq_Ie_o",
+        "reason": "A good panel discussion with some great insights shared on diversity & inclusion in tech.",
+        "cat": "video"
     }
 ]

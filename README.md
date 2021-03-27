@@ -23,6 +23,7 @@
  * [Let's get to the root of racial injustice](https://www.youtube.com/watch?v=-aCn72iXO9s) - A TEDx talk by Megan Ming Francis that traces the root causes of our current racial climate to their core causes, debunking common misconceptions and calling out "fix-all" cures to a complex social problem.
  * [How to deconstruct racism, one headline at a time](https://www.ted.com/talks/baratunde_thurston_how_to_deconstruct_racism_one_headline_at_a_time/transcript?utm_source=newsletter_weekly_2019-05-31&utm_campaign=newsletter_weekly&utm_medium=email&utm_content=talk_of_the_week_button) - A TED Talk by Baratunde Thurston that explores patterns revealing our racist framing, language, and behaviors.
  * [Birth of a White Nation](https://www.youtube.com/watch?v=riVAuC0dnP4) - A keynote speech by Jacqueline Battalora that offers a blow-by-blow description of the moment the idea of, and word for, “white” people entered U.S. legal code.
+ * [Front End Happy Hour - Live Inclusion Panel at Tech Know Day](https://www.youtube.com/watch?v=aBuySq_Ie_o) - A good panel discussion with some great insights shared on diversity & inclusion in tech.
 
 ## Podcasts
  * [Reply All - Raising The Bar](https://gimletmedia.com/shows/reply-all/76h54l/52-raising-the-bar) - In this episode of Reply All they talk about how important it is to have a diverse team
@@ -44,6 +45,7 @@
  * [Cut it out—How to stop using weak language at work](https://www.theladders.com/career-advice/cut-it-out-how-to-stop-using-weak-language-at-work) - An article about how to be a good communicator at work
  * [The Mistake Companies Make When They Use Data to Plan Diversity Efforts](https://hbr.org/2019/04/the-mistake-companies-make-when-they-use-data-to-plan-diversity-efforts) - A useful article to help companies approach improve diversity efforts
  * [50 Ways to Fight Bias](https://leanin.org/50-ways-to-fight-gender-bias) - Some helpful tips for ways to fight gender bias
+ * [Why the 'nice guy' penalty disadvantages all workers](https://www.bbc.com/worklife/article/20210310-why-the-nice-guy-penalty-disadvantages-all-workers) - Research suggests that men are distrusted and passed over at work when they exhibit qualities stereotypically assigned to women. Fixing this would benefit all of us.
 
 ## Newsletters
  * [Better Allies](https://betterallies.com/more-content/) - This is an excellent weekly newsletter that provides 5 insightful tips each week
