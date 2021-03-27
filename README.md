@@ -6,6 +6,7 @@
  * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=sr_1_3?crid=2HP9PYKIEJNNY&keywords=quiet+the+power+of+introverts&qid=1553744069&s=gateway&sprefix=quiet+%2Caps%2C275&sr=8-3) - This is a helpful book on understanding to help be more inclusive for introverts
  * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404/ref=sr_1_1?crid=1V20YD4UF58JH&keywords=turn+the+ship+around&qid=1553744165&s=gateway&sprefix=turn+the+ship+%2Caps%2C275&sr=8-1) - This is a helpful book for leading teams
  * [Everybody Matters: The Extraordinary Power of Caring for Your People Like Family](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - This is a great book for helping build a culture of empathy in a company
+ * [Better Allies: Everyday Actions to Create Inclusive, Engaging Workplaces](https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303) - The Better Allies is a great read on how to help build a more inclusive environment.
 
 ## Videos
  * [Why the Most Common Diversity Programs Don't Work](https://hbr.org/video/5108682441001/why-the-most-common-diversity-programs-dont-work) - The video helps share common mistakes that diversity programs make.
