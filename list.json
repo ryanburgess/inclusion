@@ -142,5 +142,83 @@
         "url": "https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303",
         "reason": "The Better Allies is a great read on how to help build a more inclusive environment.",
         "cat": "book"
+    },
+    {
+        "title": "Stamped from the Beginning - The Definitive History of Racist Ideas in America",
+        "url": "https://open.spotify.com/album/6PzcVM8Z1GMqeGlMBQ6ikX?si=HceQ3l1bT1G9jSW2EiNFGA",
+        "reason": "This is a FREE audio book that does a great job going in depth about the historical racism in America.",
+        "cat": "book"
+    },
+    {
+        "title": "White Fragility",
+        "url": "https://www.amazon.com/White-Fragility-People-About-Racism/dp/0807047414/",
+        "reason": "A book that explores the counterproductive reactions white people have when their assumptions about race are challenged, and how these reactions maintain racial inequality.",
+        "cat": "book"
+    },
+    {
+        "title": "Waking Up White",
+        "url": "https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I",
+        "reason": "This book explores race with the desire to understand the racial divide.",
+        "cat": "book"
+    },
+    {
+        "title": "13th",
+        "url": "https://www.netflix.com/title/80091741",
+        "reason": "This is an excellent documentary on Netflix that outlines the racism towards Black people in America.",
+        "cat": "video"
+    },
+    {
+        "title": "When They See Us",
+        "url": "https://www.netflix.com/title/80200549",
+        "reason": "This 4 part series on Netflix is the story of the Central Park 5.",
+        "cat": "video"
+    },
+    {
+        "title": "Let's get to the root of racial injustice",
+        "url": "https://www.youtube.com/watch?v=-aCn72iXO9s",
+        "reason": "A TEDx talk by Megan Ming Francis that traces the root causes of our current racial climate to their core causes, debunking common misconceptions and calling out \"fix-all\" cures to a complex social problem.",
+        "cat": "video"
+    },
+    {
+        "title": "How to deconstruct racism, one headline at a time",
+        "url": "https://www.ted.com/talks/baratunde_thurston_how_to_deconstruct_racism_one_headline_at_a_time/transcript?utm_source=newsletter_weekly_2019-05-31&utm_campaign=newsletter_weekly&utm_medium=email&utm_content=talk_of_the_week_button",
+        "reason": "A TED Talk by Baratunde Thurston that explores patterns revealing our racist framing, language, and behaviors.",
+        "cat": "video"
+    },
+    {
+        "title": "Birth of a White Nation",
+        "url": "https://www.youtube.com/watch?v=riVAuC0dnP4",
+        "reason": "A keynote speech by Jacqueline Battalora that offers a blow-by-blow description of the moment the idea of, and word for, “white” people entered U.S. legal code.",
+        "cat": "video"
+    },
+    {
+        "title": "Code Switch",
+        "url": "https://www.npr.org/podcasts/510312/codeswitch",
+        "reason": "This is a great podcast talking about various topics and conversations about race.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Parenting for the Future",
+        "url": "https://podcasts.apple.com/us/podcast/parenting-for-the-future/id1481728272",
+        "reason": "This podcast covers a lot of great topics around talking about racism with your children.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Throughline: American Police",
+        "url": "https://podcasts.apple.com/us/podcast/american-police/id1451109634",
+        "reason": "This podcast episode covers the origins of American policing and how those origins put violent control of Black Americans at the heart of the system.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Brené with Ibram X. Kendi on How to Be an Antiracist",
+        "url": "https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/",
+        "reason": "An episode of Unlocking Us podcast with Brené Brown interviewing Ibram X. Kendi about how to be an antiracist.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Seeing White",
+        "url": "http://www.sceneonradio.org/seeing-white/",
+        "reason": "A podcast that covers a lot of the historical events in America that have lead to racism in America.",
+        "cat": "podcast"
     }
 ]
