@@ -48,6 +48,7 @@
  * [Why the 'nice guy' penalty disadvantages all workers](https://www.bbc.com/worklife/article/20210310-why-the-nice-guy-penalty-disadvantages-all-workers) - Research suggests that men are distrusted and passed over at work when they exhibit qualities stereotypically assigned to women. Fixing this would benefit all of us.
  * [Closing the gap: A manager’s guide to advancing gender equity in the workplace](https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace) - Suggestions for managers to help reduce gender gaps in the workplace.
  * [The complicated battle over unconscious-bias training](https://www.bbc.com/worklife/article/20210326-the-complicated-battle-over-unconscious-bias-training) - Helping workers understand their implicit biases is helpful, in theory – but these programmes are controversial. Who’s right?
+ * [What’s the Difference Between Diversity, Inclusion, and Equity?](https://generalassemb.ly/blog/diversity-inclusion-equity-differences-in-meaning/) - The often-used terms diversity, equity, and inclusion have distinct meanings. Here’s why that matters, and how they work together.
 
 ## Newsletters
  * [Better Allies](https://betterallies.com/more-content/) - This is an excellent weekly newsletter that provides 5 insightful tips each week
