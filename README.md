@@ -46,6 +46,8 @@
  * [The Mistake Companies Make When They Use Data to Plan Diversity Efforts](https://hbr.org/2019/04/the-mistake-companies-make-when-they-use-data-to-plan-diversity-efforts) - A useful article to help companies approach improve diversity efforts
  * [50 Ways to Fight Bias](https://leanin.org/50-ways-to-fight-gender-bias) - Some helpful tips for ways to fight gender bias
  * [Why the 'nice guy' penalty disadvantages all workers](https://www.bbc.com/worklife/article/20210310-why-the-nice-guy-penalty-disadvantages-all-workers) - Research suggests that men are distrusted and passed over at work when they exhibit qualities stereotypically assigned to women. Fixing this would benefit all of us.
+ * [Closing the gap: A manager’s guide to advancing gender equity in the workplace](https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace) - Suggestions for managers to help reduce gender gaps in the workplace.
+ * [The complicated battle over unconscious-bias training](https://www.bbc.com/worklife/article/20210326-the-complicated-battle-over-unconscious-bias-training) - Helping workers understand their implicit biases is helpful, in theory – but these programmes are controversial. Who’s right?
 
 ## Newsletters
  * [Better Allies](https://betterallies.com/more-content/) - This is an excellent weekly newsletter that provides 5 insightful tips each week

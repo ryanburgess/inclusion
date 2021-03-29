@@ -232,5 +232,17 @@
         "url": "https://www.youtube.com/watch?v=aBuySq_Ie_o",
         "reason": "A good panel discussion with some great insights shared on diversity & inclusion in tech.",
         "cat": "video"
+    },
+    {
+        "title": "Closing the gap: A manager’s guide to advancing gender equity in the workplace",
+        "url": "https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace",
+        "reason": "Suggestions for managers to help reduce gender gaps in the workplace.",
+        "cat": "article"
+    },
+    {
+        "title": "The complicated battle over unconscious-bias training",
+        "url": "https://www.bbc.com/worklife/article/20210326-the-complicated-battle-over-unconscious-bias-training",
+        "reason": "Helping workers understand their implicit biases is helpful, in theory – but these programmes are controversial. Who’s right?",
+        "cat": "article"
     }
 ]
