@@ -38,5 +38,8 @@
     "gulp-jsonlint": "^1.1.2",
     "jshint-stylish": "^2.2.1",
     "prompt": "^1.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
