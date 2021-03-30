@@ -40,6 +40,7 @@
     "prompt": "^1.0.0"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "lodash.template": "^4.5.0"
   }
 }
