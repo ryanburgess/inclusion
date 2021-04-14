@@ -49,6 +49,8 @@
  * [Closing the gap: A manager’s guide to advancing gender equity in the workplace](https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace) - Suggestions for managers to help reduce gender gaps in the workplace.
  * [The complicated battle over unconscious-bias training](https://www.bbc.com/worklife/article/20210326-the-complicated-battle-over-unconscious-bias-training) - Helping workers understand their implicit biases is helpful, in theory – but these programmes are controversial. Who’s right?
  * [What’s the Difference Between Diversity, Inclusion, and Equity?](https://generalassemb.ly/blog/diversity-inclusion-equity-differences-in-meaning/) - The often-used terms diversity, equity, and inclusion have distinct meanings. Here’s why that matters, and how they work together.
+ * [The harmful ableist language you unknowingly use](https://www.bbc.com/worklife/article/20210330-the-harmful-ableist-language-you-unknowingly-use) - A helpful article that outlines most common, ingrained expressions that are harful ableist language
+ * [Here’s how to achieve better workplace equity for women of color](https://www.nbcnews.com/know-your-value/feature/here-s-how-achieve-better-workplace-equity-women-color-ncna1263342) - Some ideas on how to improve the workplace for women of color.
 
 ## Newsletters
  * [Better Allies](https://betterallies.com/more-content/) - This is an excellent weekly newsletter that provides 5 insightful tips each week

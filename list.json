@@ -250,5 +250,17 @@
         "url": "https://generalassemb.ly/blog/diversity-inclusion-equity-differences-in-meaning/",
         "reason": "The often-used terms diversity, equity, and inclusion have distinct meanings. Here’s why that matters, and how they work together.",
         "cat": "article"
+    },
+    {
+        "title": "The harmful ableist language you unknowingly use",
+        "url": "https://www.bbc.com/worklife/article/20210330-the-harmful-ableist-language-you-unknowingly-use",
+        "reason": "A helpful article that outlines most common, ingrained expressions that are harful ableist language",
+        "cat": "article"
+    },
+    {
+        "title": "Here’s how to achieve better workplace equity for women of color",
+        "url": "https://www.nbcnews.com/know-your-value/feature/here-s-how-achieve-better-workplace-equity-women-color-ncna1263342",
+        "reason": "Some ideas on how to improve the workplace for women of color.",
+        "cat": "article"
     }
 ]
