@@ -24,6 +24,7 @@
  * [How to deconstruct racism, one headline at a time](https://www.ted.com/talks/baratunde_thurston_how_to_deconstruct_racism_one_headline_at_a_time/transcript?utm_source=newsletter_weekly_2019-05-31&utm_campaign=newsletter_weekly&utm_medium=email&utm_content=talk_of_the_week_button) - A TED Talk by Baratunde Thurston that explores patterns revealing our racist framing, language, and behaviors.
  * [Birth of a White Nation](https://www.youtube.com/watch?v=riVAuC0dnP4) - A keynote speech by Jacqueline Battalora that offers a blow-by-blow description of the moment the idea of, and word for, “white” people entered U.S. legal code.
  * [Front End Happy Hour - Live Inclusion Panel at Tech Know Day](https://www.youtube.com/watch?v=aBuySq_Ie_o) - A good panel discussion with some great insights shared on diversity & inclusion in tech.
+ * [Are We Automating Racism?](https://youtu.be/Ok5sKLXqynQ) - A good video on systemic racism and AI.
 
 ## Podcasts
  * [Reply All - Raising The Bar](https://gimletmedia.com/shows/reply-all/76h54l/52-raising-the-bar) - In this episode of Reply All they talk about how important it is to have a diverse team
