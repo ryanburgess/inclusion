@@ -268,5 +268,17 @@
         "url": "https://youtu.be/Ok5sKLXqynQ",
         "reason": "A good video on systemic racism and AI.",
         "cat": "video"
+    },
+    {
+        "title": "Who’s Doing the Glue Work at Your Company?",
+        "url": "https://spin.atomicobject.com/2018/10/03/glue-work-strategies/",
+        "reason": "A great article to talks about the bias to who is doing the office house work.",
+        "cat": "article"
+    },
+    {
+        "title": "50 potential privileges in the workplace",
+        "url": "https://betterallies.files.wordpress.com/2019/01/50-potential-privileges.pdf",
+        "reason": "A list of potential privileges and how they might show up in the workplace.",
+        "cat": "article"
     }
 ]

@@ -52,6 +52,8 @@
  * [What’s the Difference Between Diversity, Inclusion, and Equity?](https://generalassemb.ly/blog/diversity-inclusion-equity-differences-in-meaning/) - The often-used terms diversity, equity, and inclusion have distinct meanings. Here’s why that matters, and how they work together.
  * [The harmful ableist language you unknowingly use](https://www.bbc.com/worklife/article/20210330-the-harmful-ableist-language-you-unknowingly-use) - A helpful article that outlines most common, ingrained expressions that are harful ableist language
  * [Here’s how to achieve better workplace equity for women of color](https://www.nbcnews.com/know-your-value/feature/here-s-how-achieve-better-workplace-equity-women-color-ncna1263342) - Some ideas on how to improve the workplace for women of color.
+ * [Who’s Doing the Glue Work at Your Company?](https://spin.atomicobject.com/2018/10/03/glue-work-strategies/) - A great article to talks about the bias to who is doing the office house work.
+ * [50 potential privileges in the workplace](https://betterallies.files.wordpress.com/2019/01/50-potential-privileges.pdf) - A list of potential privileges and how they might show up in the workplace.
 
 ## Newsletters
  * [Better Allies](https://betterallies.com/more-content/) - This is an excellent weekly newsletter that provides 5 insightful tips each week
@@ -59,8 +61,9 @@
 ## Contributing 
 1. Fork it
 2. Run `npm install`
-3. Run `node link` for commands to add your resource 
-4. Create your feature branch (`git checkout -b my-new-feature`)
-5. Commit your changes (`git commit -am "Add some feature"`)
-6. Push to the branch (`git push origin my-new-feature`)
-7. Create new Pull Request
+3. Add your resource to `list.json`
+4. Run `node index` to update `README.md` with your changes
+5. Create your feature branch (`git checkout -b my-new-feature`)
+6. Commit your changes (`git commit -am "Add some feature"`)
+7. Push to the branch (`git push origin my-new-feature`)
+8. Create new Pull Request
