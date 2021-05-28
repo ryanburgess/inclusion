@@ -41,6 +41,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "lodash.template": "^4.5.0"
+    "lodash.template": "^4.5.0",
+    "underscore": "^1.13.1"
   }
 }
