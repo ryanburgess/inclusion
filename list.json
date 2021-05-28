@@ -286,5 +286,11 @@
         "url": "https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X",
         "reason": "Ellen Pao shares her experiences in her career and focuses on the fight to make an more inclusive industry",
         "cat": "book"
+    },
+    {
+        "title": "Front End Happy Hour - Allyship - Inviting everyone to the party",
+        "url": "https://frontendhappyhour.com/episodes/allyship-inviting-everyone-to-the-party/",
+        "reason": "Better Allies, Karen Catlin joins Front End Happy Hour to talk about ways to be an ally in tech. There are a lot of great takeaways in this podcast episode.",
+        "cat": "podcast"
     }
 ]

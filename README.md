@@ -38,6 +38,7 @@
  * [Throughline: American Police](https://podcasts.apple.com/us/podcast/american-police/id1451109634) - This podcast episode covers the origins of American policing and how those origins put violent control of Black Americans at the heart of the system.
  * [Brené with Ibram X. Kendi on How to Be an Antiracist](https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/) - An episode of Unlocking Us podcast with Brené Brown interviewing Ibram X. Kendi about how to be an antiracist.
  * [Seeing White](http://www.sceneonradio.org/seeing-white/) - A podcast that covers a lot of the historical events in America that have lead to racism in America.
+ * [Front End Happy Hour - Allyship - Inviting everyone to the party](https://frontendhappyhour.com/episodes/allyship-inviting-everyone-to-the-party/) - Better Allies, Karen Catlin joins Front End Happy Hour to talk about ways to be an ally in tech. There are a lot of great takeaways in this podcast episode.
 
 ## Articles
  * [Reducing Bias in Your Hiring Process](https://medium.com/@mekkaokereke/reducing-bias-in-your-hiring-process-2a9b699e964b) - Some helpful tips to reduce bias in your hiring process
