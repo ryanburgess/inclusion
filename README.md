@@ -12,6 +12,9 @@
  * [Waking Up White](https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I) - This book explores race with the desire to understand the racial divide.
  * [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X) - Ellen Pao shares her experiences in her career and focuses on the fight to make an more inclusive industry
 
+## Websites
+ * [Microsoft Inclusive Design Site](https://www.microsoft.com/design/inclusive/) - With content ranging from `Inclusion 101` a document detailing inclusive design from an accessibility perspective through `Inclusive Activities` a set of activity cards to help teams build with inclusive pactices, to a discussion of the challenges of writing inclusive AI, this website from Microsoft publishes easily consumable resources on accessibility for every level of familiarity with the topic. This is FREE content.
+
 ## Videos
  * [Why the Most Common Diversity Programs Don't Work](https://hbr.org/video/5108682441001/why-the-most-common-diversity-programs-dont-work) - The video helps share common mistakes that diversity programs make.
  * [Why Diversity Is More Important Than Meritocracy: Quotas, Talent, Wall Street](https://www.youtube.com/watch?v=78yqUylmC_o) - Some interesting points on why we need to rethink our approach on improving diversity
