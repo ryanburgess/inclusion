@@ -292,5 +292,11 @@
         "url": "https://frontendhappyhour.com/episodes/allyship-inviting-everyone-to-the-party/",
         "reason": "Better Allies, Karen Catlin joins Front End Happy Hour to talk about ways to be an ally in tech. There are a lot of great takeaways in this podcast episode.",
         "cat": "podcast"
+    },
+    {
+        "title": "Microsoft Inclusive Design Site",
+        "url": "https://www.microsoft.com/design/inclusive/",
+        "reason": "With content ranging from `Inclusion 101` a document detailing inclusive design from an accessibility perspective through `Inclusive Activities` a set of activity cards to help teams build with inclusive pactices, to a discussion of the challenges of writing inclusive AI, this website from Microsoft publishes easily consumable resources on accessibility for every level of familiarity with the topic. This is FREE content.",
+        "cat": "website"
     }
 ]
