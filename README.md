@@ -11,6 +11,7 @@
  * [White Fragility](https://www.amazon.com/White-Fragility-People-About-Racism/dp/0807047414/) - A book that explores the counterproductive reactions white people have when their assumptions about race are challenged, and how these reactions maintain racial inequality.
  * [Waking Up White](https://www.amazon.com/Waking-White-Finding-Myself-Story/dp/B01EINQC3I) - This book explores race with the desire to understand the racial divide.
  * [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X) - Ellen Pao shares her experiences in her career and focuses on the fight to make an more inclusive industry
+ * [Just Work: Get Sh*t Done, Fast & Fair](https://kimmalonescott.com/books/just-work-book/) - Kim Scott (the author of Radical Candor) revisits the advice of her first book through a lens of inclusion. It carries the tag-line 'How to root out bias, prejudice, and bullying to build a kick-ass culture of inclusivity.' 
 
 ## Websites
  * [Microsoft Inclusive Design Site](https://www.microsoft.com/design/inclusive/) - With content ranging from `Inclusion 101` a document detailing inclusive design from an accessibility perspective through `Inclusive Activities` a set of activity cards to help teams build with inclusive pactices, to a discussion of the challenges of writing inclusive AI, this website from Microsoft publishes easily consumable resources on accessibility for every level of familiarity with the topic. This is FREE content.
