@@ -298,5 +298,11 @@
         "url": "https://www.microsoft.com/design/inclusive/",
         "reason": "With content ranging from `Inclusion 101` a document detailing inclusive design from an accessibility perspective through `Inclusive Activities` a set of activity cards to help teams build with inclusive pactices, to a discussion of the challenges of writing inclusive AI, this website from Microsoft publishes easily consumable resources on accessibility for every level of familiarity with the topic. This is FREE content.",
         "cat": "website"
+    },
+    {
+        "title": "Just Work: Get Sh*t Done, Fast & Fair",
+        "url": "https://kimmalonescott.com/books/just-work-book/",
+        "reason": "Kim Scott (the author of Radical Candor) revisits the advice of her first book through a lens of inclusion. It carries the tag-line 'How to root out bias, prejudice, and bullying to build a kick-ass culture of inclusivity.' ",
+        "cat": "book"
     }
 ]
