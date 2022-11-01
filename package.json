@@ -34,7 +34,7 @@
   "homepage": "https://github.com/ryanburgess/inclusion#readme",
   "devDependencies": {
     "ghooks": "^1.3.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-jsonlint": "^1.1.2",
     "jshint-stylish": "^2.2.1",
     "prompt": "^1.0.0"
